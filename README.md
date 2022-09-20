@@ -1,5 +1,5 @@
 # HYD-MTR
-The hassle of travelling in hyderabad using the metro transport made easy. This project is developed completely in java and has real life use case. The whole project is based on Dijkstra Algorithm which is used to determine the shortest path from any source station(Metro Station) to all the possible Metro Stations. On selecting the source amongst any of metro stations it derives the shortest path to all the other metro stations.Each metro station is valued from numbers between 1 to 55.
+This project is developed completely in java and has real life use case. The whole project is based on Dijkstra Algorithm which is used to determine the shortest path from any source station(Metro Station) to all the possible Metro Stations. On selecting the source amongst any of metro stations it derives the shortest path to all the other metro stations.Each metro station is valued from numbers between 1 to 55.
 
 ***TIME COMPLEXITY:***
 The time complexity of Dijkstras algorithm is O(N), N is the number of vertices in the graph.
